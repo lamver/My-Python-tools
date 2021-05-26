@@ -7,3 +7,9 @@ For yourself and maybe someone will come in handy
     brutforce zip archive
 
     progress bar
+
+    parser
+        ~~~~
+        pip install lxml
+        pip install requests
+        pip install beautifulsoup4
